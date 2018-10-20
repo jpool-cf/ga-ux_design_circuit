@@ -1,0 +1,83 @@
+getvideo.at/en
+fast.wistia.net/embed/iframe/{video-hash}
+
+
+Google Drive
+https://drive.google.com/drive/u/0/folders/1qNYXE2cc2mvD8AcmFL6t7fLfKP7Tyljr
+
+Adobe XD
+
+Sketch
+
+InVision
+
+Sketch 2 Code
+https://sketch2code.azurewebsites.net/ 
+
+
+Portfolios
+https://www.creativebloq.com/ux/product-portfolios-61412126 
+
+
+UX Design
+- UX (User experience)
+- UI (User Interface)
+- User-centered design
+- Human-centered design
+- Personalization
+- Iterative
+- Design thinking
+- Design process
+- Iterative Design
+- Interaction Design
+
+http://www.slate.com/blogs/the_eye/2013/10/18/creative_confidence_a_new_book_from_ideo_s_tom_and_david_kelley.html
+http://laughingsquid.com/blind-chihuahua-tests-out-the-homemade-safety-bumper-that-his-compassionate-human-created-especially-for-him/
+http://www.nngroup.com/articles/
+http://www.jjg.net/elements/
+https://www.youtube.com/watch?v=Ovj4hFxko7c
+https://medium.com/design-ux/latest
+https://www.gov.uk/design-principles
+https://dl.dropboxusercontent.com/u/1018963/Articles/HowSpotifyBuildsProducts.pdf
+http://www.npr.org/sections/health-shots/2014/05/13/310399325/a-spoon-that-shakes-to-counteract-hand-tremors
+https://www.quora.com/What-is-the-best-definition-of-interaction-design
+https://dschool-old.stanford.edu/groups/designresources/wiki/de476/Project_Topic_Wallet_GiftGiving_or_other.html 
+
+
+Research
+http://www.nngroup.com/articles/which-ux-research-methods/
+http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/
+http://www.nytimes.com/2011/07/27/business/media/sharpie-aims-a-new-campaign-at-teenagers.html?_r=0
+
+- User research
+- Product research
+- Contextual Inquiry
+- Quantitative Research
+- Qualitative Research
+- Attitudinal Research
+- Behavioral Research
+- Generative Research
+- Evaluative Research
+- Feature Inventory
+- Competitive Analysis
+- Task Analysis
+- Plus/Delta Model
+
+Contextual Inquiry and Interviews
+http://www.nngroup.com/articles/field-studies-done-right-fast-and-observational/
+http://alistapart.com/article/seeing-the-elephant-defragmenting-user-research
+http://www.slideshare.net/steveportigal/interviewing-users-uncovering-compelling-insights-la-ux-meetupixda-la
+https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design
+http://www.uxmatters.com/mt/archives/2008/07/preparing-for-user-research-interviews-seven-things-to-remember.php
+http://www.usabilitynet.org/tools/interviews.htm 
+
+- bias
+- unbiased
+- contextual inquiry
+- user solutions
+- field study
+- participant
+- researcher
+- empathy
+- active listening
+- 5 Ws and 1 H

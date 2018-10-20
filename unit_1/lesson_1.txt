@@ -1,0 +1,42 @@
+UNIT INTRO
+
+- Beginner's mindset, no assumptions
+- Overlap of
+    - What does the customer actually need?
+    - What are the business goals?
+- What is the customer pain point?
+- Start with the user, asap
+
+- User research
+    - Get users to tell stories
+    - Embrace awkward silences
+    - Natural curiosity about the users, conversational
+
+At the end of lesson 4, you will need to interview at least 3 potential users. It is best to allocate 30-60 minutes for each interview.
+
+UNIT DELIVERABLES
+- Research plan
+- Discussion guide
+- User interviews with at least 3 people (user recruitment required)
+- Feature inventory
+
+
+
+Next Steps
+Email your mentor at uxc-mentor@generalassemb.ly with your project choice and one sentence about why you are interested in that topic. Do this before you start Lesson 2.
+
+If you are unsure what topic to pick, email your mentor asking for help and move on to Lesson 2.
+
+
+IDEAS
+- Passive Pet Trainer/Monitor
+    - Passive proximity based (break planes)
+    - Smart collar
+    - Record video/audio to correct behavior when detected
+    - Video streaming
+    - Multiple cameras (Nest)
+    - Speaker
+    - Screen
+    - Unlock doors (let dog out or let walker in)
+    - Passive proximity based (break planes)
+    - Nest IQ face detection to keep dog in certain area of house (smart gate)
