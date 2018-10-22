@@ -1,45 +1,23 @@
-CONTEXTUAL INQUIRY AND INTERVIEWS
+USER INTERVIEW TECHNIQUES
 
-----You are not the user----
-    You might be a user, but you aren’t a representative whole of your entire user base. One of the key purposes of user research is gaining empathy for other people and their struggles.
+- Introduce yourself and the project
+- Let the user ask questions
+- Record the interview
+- Learn about the user
 
-----Don’t make assumptions about user behavior----
-    You don’t know why people make the choices they do, so it’s risky to make assumptions about how users will behave in certain situations. Instead, you must observe users to discern their behaviors, choices, and preferences.
+Interview Process
+- Write a research plan
+    - What do you want to learn?
+    - Who is your target audience?
+    - What are your key areas of inquiry?
 
-----Explore current user solutions----
-    How are users currently dealing with the problem? Are they hacking their own solutions? Studying existing user workaround will give you a good idea of what users consider important and how they’d like issues resolved.
+- Write a discussion guide
+    - Open-ended questions
+    - Avoid leading questions
+    - Avoid compound questions
+    - Don't point out specific issues
+    - Ask about the actual behavior
+    
 
-Contextual Inqueries
-- Observiing users in their natural environment to learn from their actions and behaviors
-- Guided by the participant, not the researcher
-
-Interviews 
-- Dig deeper into the user reasoning behind their choices and behaviors while under observation, as well as during related circumstances.
-- ALWAYS in person, a user’s facial expressions and body language will often tell you as much about a user’s feelings as their words.
-
-Scenarios
-- Consider the many different contexts in which the problem you’re attempting to solve can be encountered by your users and observe their current solutions.
-
-Questions
-- Who
-- What
-- Where
-- Why
-- When
-- How
-- Best time
-- Worst time
-- Most recent time
-- NOT what they want
-
-Listening
-- Ask people to summarize their thoughts and focus on the most important points.
-- Ask follow-up questions often to get to the heart of the matter.
-- Don’t push for a specific answer. Don’t force users to give you the answers that you want.
-- Use silence as a way to get people to continue sharing. People are compelled to fill in awkward silences, and you may wind up with an unexpected discovery.
-
-Post-Interview
-- What was the major need you heard?
-- How did what you hear the user say compare to what you think personally?
-- Where there any assumptions you had about what you were going to hear?
-- How did reality compare to your expectations?
+- Recruit users for interviews
+- Conduct interviews
