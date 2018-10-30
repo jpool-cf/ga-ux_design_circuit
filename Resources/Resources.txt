@@ -1,25 +1,25 @@
-getvideo.at/en
-fast.wistia.net/embed/iframe/{video-hash}
+RESOURCES
+- Google Drive
+    https://drive.google.com/drive/u/0/folders/1qNYXE2cc2mvD8AcmFL6t7fLfKP7Tyljr
+
+- Adobe XD
+    https://www.adobe.com/products/xd.html
+
+- Sketch
+    https://www.sketchapp.com/
+
+- InVision
+    https://www.invisionapp.com/
+
+- Sketch 2 Code
+    https://sketch2code.azurewebsites.net/ 
+
+- Portfolios
+    https://www.creativebloq.com/ux/product-portfolios-61412126 
 
 
-Google Drive
-https://drive.google.com/drive/u/0/folders/1qNYXE2cc2mvD8AcmFL6t7fLfKP7Tyljr
 
-Adobe XD
-
-Sketch
-
-InVision
-
-Sketch 2 Code
-https://sketch2code.azurewebsites.net/ 
-
-
-Portfolios
-https://www.creativebloq.com/ux/product-portfolios-61412126 
-
-
-UX Design
+UX DESIGN
 - UX (User experience)
 - UI (User Interface)
 - User-centered design
@@ -44,11 +44,8 @@ https://www.quora.com/What-is-the-best-definition-of-interaction-design
 https://dschool-old.stanford.edu/groups/designresources/wiki/de476/Project_Topic_Wallet_GiftGiving_or_other.html 
 
 
-Research
-http://www.nngroup.com/articles/which-ux-research-methods/
-http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/
-http://www.nytimes.com/2011/07/27/business/media/sharpie-aims-a-new-campaign-at-teenagers.html?_r=0
 
+RESEARCH
 - User research
 - Product research
 - Contextual Inquiry
@@ -63,14 +60,13 @@ http://www.nytimes.com/2011/07/27/business/media/sharpie-aims-a-new-campaign-at-
 - Task Analysis
 - Plus/Delta Model
 
-Contextual Inquiry and Interviews
-http://www.nngroup.com/articles/field-studies-done-right-fast-and-observational/
-http://alistapart.com/article/seeing-the-elephant-defragmenting-user-research
-http://www.slideshare.net/steveportigal/interviewing-users-uncovering-compelling-insights-la-ux-meetupixda-la
-https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design
-http://www.uxmatters.com/mt/archives/2008/07/preparing-for-user-research-interviews-seven-things-to-remember.php
-http://www.usabilitynet.org/tools/interviews.htm 
+http://www.nngroup.com/articles/which-ux-research-methods/
+http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/
+http://www.nytimes.com/2011/07/27/business/media/sharpie-aims-a-new-campaign-at-teenagers.html?_r=0
 
+
+
+CONTEXTUAL INQUIRY AND INTERVIEWS
 - bias
 - unbiased
 - contextual inquiry
@@ -81,3 +77,46 @@ http://www.usabilitynet.org/tools/interviews.htm
 - empathy
 - active listening
 - 5 Ws and 1 H
+
+http://www.nngroup.com/articles/field-studies-done-right-fast-and-observational/
+http://alistapart.com/article/seeing-the-elephant-defragmenting-user-research
+http://www.slideshare.net/steveportigal/interviewing-users-uncovering-compelling-insights-la-ux-meetupixda-la
+https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design
+http://www.uxmatters.com/mt/archives/2008/07/preparing-for-user-research-interviews-seven-things-to-remember.php
+http://www.usabilitynet.org/tools/interviews.htm 
+
+
+
+USER INTERVIEW TECHNIQUES
+- Cognitive bias
+- Research plan
+- Discussion guide
+- Target audience
+- Moderator
+- Interviewer
+- Note-taker
+- Internal factors
+- External factors
+- Topic map
+- Observational notes
+
+https://drive.google.com/a/generalassemb.ly/file/d/0B90at1RYlXLccXdUOVpDdzE4UWs/view
+http://www.uxmatters.com/mt/archives/2014/11/recruiting-user-research-participants-by-email.php
+http://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/
+http://blog.generalassemb.ly/diy-recruiting-user-research-bb-model/
+https://www.dropbox.com/s/5kmofdms00sbh84/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf?dl=0
+http://www.forbes.com/sites/sanjeevagrawal/2015/10/31/dear-founders-listening-to-your-users-isnt-the-same-as-waiting-to-talk/#1a70e85324067df3cb422406
+
+
+
+COMPETITIVE ANALYSIS
+- Feature prioritization
+- Product Strategy
+- Competitive Analysis
+- Plus/Delta Model
+- Stakeholder
+- Direct Competitor
+- Analogous Competitor
+
+http://uxpamagazine.org/gaining-competitive-advantage/
+http://www.uxmatters.com/mt/archives/2011/09/leveraging-ux-insights-to-influence-product-strategy.php

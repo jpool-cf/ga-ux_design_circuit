@@ -18,6 +18,16 @@ Interview Process
     - Don't point out specific issues
     - Ask about the actual behavior
     
-
 - Recruit users for interviews
+
+
+
 - Conduct interviews
+    - 
+    - 
+    - 
+
+- Post interview
+    - Does what I’ve learned change how we should frame the original research objective?
+    - Is there a pattern in the data that suggests new design considerations?
+    - What gaps in knowledge have I uncovered that I might need to research at a later date?

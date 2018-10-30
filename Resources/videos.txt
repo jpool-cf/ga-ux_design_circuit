@@ -1,0 +1,2 @@
+getvideo.at/en
+fast.wistia.net/embed/iframe/{video-hash}
