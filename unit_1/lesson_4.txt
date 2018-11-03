@@ -1,0 +1,33 @@
+USER INTERVIEW TECHNIQUES
+
+- Introduce yourself and the project
+- Let the user ask questions
+- Record the interview
+- Learn about the user
+
+Interview Process
+- Write a research plan
+    - What do you want to learn?
+    - Who is your target audience?
+    - What are your key areas of inquiry?
+
+- Write a discussion guide
+    - Open-ended questions
+    - Avoid leading questions
+    - Avoid compound questions
+    - Don't point out specific issues
+    - Ask about the actual behavior
+    
+- Recruit users for interviews
+
+
+
+- Conduct interviews
+    - 
+    - 
+    - 
+
+- Post interview
+    - Does what I’ve learned change how we should frame the original research objective?
+    - Is there a pattern in the data that suggests new design considerations?
+    - What gaps in knowledge have I uncovered that I might need to research at a later date?

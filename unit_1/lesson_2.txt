@@ -1,0 +1,43 @@
+USER RESEARCH
+
+Data Types -----------------------------------------------------
+
+Attitudinal or Behavioral data?
+    - Additudinal is what people say
+        - Interviews
+        - Focus Groups
+    - Behavioral is what people do
+        - A/B Testing
+        - Contextual Inquiry
+
+Qualitative or Quantitative data?
+    - Qualitative describes the qualities or characteristics of something, directly through observation
+        - Interviews
+        - Contextual Inquiry
+        - Usability Tests
+    - Quantitative is something that can be expressed as a number, indirectly through measurement or instrument
+        - A/B Testing
+        - Suverys
+        - Clickstream Analysis
+
+Generative or Evaluative data?
+    - Generative helps define the problem you'd like to design a solution for
+        - Contextual Inquiry
+        - Focus Groups
+        - Ethnographic Research
+    - Evaluative evaluates an existing design
+        - Paper Prototype Testing
+        - Usability Testing
+
+
+Collection Types ------------------------------------------------
+
+- Interviews
+- Focus Groups
+- A/B Testing
+- Contextual Inquiry
+- Usability Tests
+- Surveys
+- Clickstream Analysis
+- Ethnographic Research
+- Paper Prototype Testing
