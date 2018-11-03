@@ -1,0 +1,16 @@
+COMPETITIVE ANALYSIS
+
+Why it is done
+- To find inspiration in other people’s success
+- To find opportunity in other people’s design faults
+
+Identifying the competition
+
+Plus/Delta Model
+- Pro/Con list, focus on the value offered to users, rather than the specific features of each competitor’s product
+
+Task Analysis
+- Identify the tasks that your product must support
+
+Feature Inventory
+- Quickly compare functionality across competitors
